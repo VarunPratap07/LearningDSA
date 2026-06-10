@@ -1,7 +1,13 @@
-# Journey to learn C++ and use it to learn DSA(data structures and algorithm)  
+# Journey to learn C++ and use it to learn DSA(data structures and algorithm) 
+
 :red_circle:SUMMER OF 2026  
-First Time Learning C++.  
+:red_circle:NOTE-I-have-added-a-.gitignore-file-to-ignore-the-.exe-file-whenever-I-commit-Solutions.  
+
+First Time Learning C++.    
 Will be following A2Z's striver DSA sheet.  
-$${\color{red}NOTE-I-have-added-a-.gitignore-file-to-ignore-the-.exe-file-whenever-I-commit-Solutions.}$$  
 
-
+Day-01  
+Learned basics about c++.  
+1 Importing libraries.  
+2 Printing output.  
+3 Taking user input.
