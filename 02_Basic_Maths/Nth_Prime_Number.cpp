@@ -25,5 +25,13 @@ int main(){
     int n ;
     cout<<"Please enter what prime you want-" ;
     cin>>n ;
-    cout<<"The "<<n<<" prime number "<<"is "<<Nth_Prime(n) ;
+    if(n==1){
+        cout<<"The "<<n<<"'st"<<" prime number "<<"is "<<Nth_Prime(n)<<"." ;
+    }
+    else if(n==2){
+        cout<<"The "<<n<<"'nd"<<" prime number "<<"is "<<Nth_Prime(n)<<"." ;
+    }
+    else{
+        cout<<"The "<<n<<"'th"<<" prime number "<<"is "<<Nth_Prime(n)<<"." ;
+    }
 }
