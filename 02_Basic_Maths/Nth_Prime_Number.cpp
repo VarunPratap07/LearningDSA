@@ -31,6 +31,9 @@ int main(){
     else if(n==2){
         cout<<"The "<<n<<"'nd"<<" prime number "<<"is "<<Nth_Prime(n)<<"." ;
     }
+    else if(n==3){
+        cout<<"The "<<n<<"'rd"<<" prime number "<<"is "<<Nth_Prime(n)<<"." ;
+    }
     else{
         cout<<"The "<<n<<"'th"<<" prime number "<<"is "<<Nth_Prime(n)<<"." ;
     }
