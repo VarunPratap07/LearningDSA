@@ -4,10 +4,4 @@
 :red_circle:NOTE-I-have-added-a-.gitignore-file-to-ignore-the-.exe-file-whenever-I-commit-Solutions.  
 
 First Time Learning C++.    
-Will be following A2Z's striver DSA sheet.  
-
-Day-01  
-Learned basics about c++.  
-1 Importing libraries.  
-2 Printing output.  
-3 Taking user input.
+Will be following A2Z's striver DSA sheet.
